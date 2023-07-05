@@ -26,14 +26,6 @@ Instala las dependencias:
 ```` shell
 npm install
 ````
-Configura las variables de entorno:
-Crea un archivo .env en el directorio raíz del proyecto y define las siguientes variables de entorno:
-
-````makefile
-PORT=3000
-DB_CONNECTION_STRING=tu-conexion-de-base-de-datos
-````
-Asegúrate de reemplazar tu-conexion-de-base-de-datos con la cadena de conexión válida para tu base de datos.
 
 Ejecución
 Una vez que hayas completado la configuración, puedes ejecutar el backend API utilizando el siguiente comando:
