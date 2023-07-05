@@ -55,6 +55,10 @@ Las pruebas se ejecutarán y se mostrará el resultado en la consola.
 El backend API proporciona los siguientes endpoints:
 
 GET /cafes: Obtiene todos los cafés.
+
 DELETE /cafes/:id: Elimina un café por su ID.
+
 POST /cafes: Agrega un nuevo café.
+
 PUT /cafes/:id: Actualiza un café por su ID.
+
