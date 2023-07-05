@@ -14,16 +14,16 @@ Node.js (v12.0 o superior)
 npm (administrador de paquetes de Node.js)
 ## Configuración
 Clona este repositorio en tu máquina local:
-````shell
+```` shell
 git clone https://github.com/tu-usuario/backend-api.git](https://github.com/dcarvajal99/Cafeteria-Nanacao
 ````
 Navega hasta el directorio del proyecto:
-````shell
+```` shell
 cd backend-api
 ````
 
 Instala las dependencias:
-````shell
+```` shell
 npm install
 ````
 Configura las variables de entorno:
